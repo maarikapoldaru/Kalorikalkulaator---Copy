@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Kalorikalkulaator.MainPage">
+    <Grid Margin="5, 5, 5, 5">
+    <StackLayout>
+        <Frame BackgroundColor="Aquamarine" Padding="24" CornerRadius="0">
+            <Label Text="HEALTHY FOOD AND WEIGHT HELPER" HorizontalTextAlignment="Center" TextColor="Black" FontSize="35"/>
+        </Frame>
+             <Button Text="KEHAKAALUINDEKS" Clicked="Button1_Clicked"
+                    Padding="10,0,10,0"
+                    Margin="50, 20, 50, 20"
+                   RelativeLayout.XConstraint="80"
+                   RelativeLayout.YConstraint="20"/>
+            <Button Text="KALORITE ARVUTUS" Clicked="Button2_Clicked"
+                    Padding="10,0,10,0"
+                     Margin="50, 20, 50, 20"
+                         RelativeLayout.XConstraint="80"
+                   RelativeLayout.YConstraint="50"/>
+            <Button Text="EESMÄRGID" Clicked="Button3_Clicked"
+                    Padding="10,0,10,0"
+                     Margin="50, 20, 50, 20"
+                         RelativeLayout.XConstraint="80"
+                   RelativeLayout.YConstraint="80"/>
+            <Button Text="KALORIPÄEVIK" Clicked="Button4_Clicked"
+                    Padding="10,0,10,0"
+                     Margin="50, 20, 50, 20"
+                         RelativeLayout.XConstraint="80"
+                   RelativeLayout.YConstraint="110"/>
+        <Button Text="MÄRKMED" Clicked="Button5_Clicked"
+                    Padding="10,0,10,0"
+                     Margin="50, 20, 50, 20"
+                         RelativeLayout.XConstraint="80"
+                   RelativeLayout.YConstraint="140"/>
+    </StackLayout>
+    </Grid>
+</ContentPage>

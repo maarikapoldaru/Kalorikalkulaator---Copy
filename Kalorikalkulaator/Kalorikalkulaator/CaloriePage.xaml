@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"  
+xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+ xmlns:local="clr-namespace:Kalorikalkulaator"             
+x:Class="Kalorikalkulaator.CaloriePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="Labelnumber1" Text="Kaal:"  RelativeLayout.XConstraint ="20" RelativeLayout.YConstraint ="40"  Margin=" 10, 0, 10, 0"/>
+            <Entry x:Name="number1" Placeholder="Sisesta kaal kg:" RelativeLayout.XConstraint ="20" RelativeLayout.YConstraint ="60"  Margin=" 10, 0, 10, 0"/>
+            <Label x:Name="Labelnumber2" Text="Kaloraaž:" RelativeLayout.XConstraint ="200" RelativeLayout.YConstraint ="40"  Margin=" 10, 0, 10, 0" />
+            <Entry x:Name="number2" Placeholder="Sisesta kalorid :" RelativeLayout.XConstraint ="200" RelativeLayout.YConstraint ="60"  Margin=" 10, 0, 10, 0"/>
+            <Label x:Name="res9" Text="Tulemus:" Margin=" 10, 0, 10, 0" />
+            <Button x:Name="Calc" Text="Arvuta"  Clicked="Calc_Clicked" RelativeLayout.XConstraint ="200" RelativeLayout.YConstraint ="60"  Margin=" 50, 0, 50, 0" />
+            <SearchBar TextChanged="SearchBar_TextChanged">
+            </SearchBar>
+            
+            
+            <ListView x:Name="list">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Name}" Detail="{Binding Num}"></TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+          

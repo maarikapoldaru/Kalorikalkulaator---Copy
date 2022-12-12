@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:local="clr-namespace:Kalorikalkulaator" 
+             x:Class="Kalorikalkulaator.NotePage">
+    
+    <ContentPage.Content>
+        
+        <StackLayout>
+            <Label Text="Teadmiseks dieedipidajale"
+                FontSize="Title"
+                Padding="10, 0, 10,0"
+                HorizontalOptions="CenterAndExpand" />
+            <Label Text=" Ohtlik alakaal alla 16, alakaal 16-18.5, normaalkaal 18.6-25, ülekaal 25.1-30, rasvumine 30.1-35, tugev rasvumine 35.1-40, ohtlik rasvumine üle 40"
+               FontSize="14"
+               Padding="10, 0, 10, 0"
+               HorizontalOptions="FillAndExpand" />
+            <Label Text="Ühe kilo mahavõtmiseks kulub 7000 kcal."
+               FontSize="14"
+               Padding="10, 0, 10, 0"
+               HorizontalOptions="FillAndExpand" />
+            <Label Text=" Mõistlik kaalulanguse tempo on 0,5–1 kilo nädalas, vanematel inimestel 0,3–0,5 kg, eriti neil, kel on mingeid haigusi."
+               FontSize="14"
+               Padding="10, 0, 10, 0"
+               HorizontalOptions="FillAndExpand" />
+            <Label Text="70% kaalu langetamisest tuleb tasakaalustatud toitumisest ja ülejäänud füüsilisest liikumisest."
+               FontSize="14"
+               Padding="10, 0, 10, 0"
+               HorizontalOptions="FillAndExpand" />
+            <Label Text="MÄRKMED"
+               HorizontalOptions="Center"
+               FontAttributes="Bold"
+               FontSize="40" />
+           
+
+
+            <Editor x:Name="editor"
+                Placeholder="Kirjuta üles"
+                HeightRequest="300" />
+       
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Button Text="Salvesta"
+                    Clicked="OnSaveButtonClicked" />
+                <Button Grid.Column="1"
+                    Text="Kustuta"
+                    Clicked="OnDeleteButtonClicked"/>
+
+             </Grid>
+
+
+
+            </StackLayout>
+       
+    </ContentPage.Content>
+</ContentPage>
+
+
+
+
+
+

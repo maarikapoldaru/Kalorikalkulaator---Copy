@@ -1,0 +1,54 @@
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Kalorikalkulaator.deps.json
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Kalorikalkulaator.dll
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\ref\Kalorikalkulaator.dll
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Kalorikalkulaator.pdb
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.AssemblyInfo.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.dll
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\ref\Kalorikalkulaator.dll
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.pdb
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\CaloriePage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\GoalPage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\WeightPage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.csproj.CopyComplete
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Xamarin.AndroidX.AppCompat.dll
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Xamarin.AndroidX.AppCompat.pdb
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.csproj.AssemblyReference.cache
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Kalorikalkulaator.deps.json
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Kalorikalkulaator.dll
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\ref\Kalorikalkulaator.dll
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Kalorikalkulaator.pdb
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Xamarin.AndroidX.AppCompat.dll
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\bin\Debug\netstandard2.0\Xamarin.AndroidX.AppCompat.pdb
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\CaloriePage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\GoalPage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\WeightPage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.AssemblyInfo.cs
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.csproj.CopyComplete
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.dll
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\ref\Kalorikalkulaator.dll
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.pdb
+C:\Users\Kasutaja\source\repos\Kalorikalkulaator - Copy\Kalorikalkulaator\Kalorikalkulaator\obj\Debug\netstandard2.0\Kalorikalkulaator.csproj.AssemblyReference.cache

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Kalorikalkulaator.WeightPage">
+    <Grid Margin="5, 5, 5, 5">
+    <StackLayout>
+       
+        <Label Text= "KEHAKAALUINDEKS"  HorizontalOptions="CenterAndExpand" FontSize="20"/>
+      
+        <Label x:Name="Labelnum9" Text="Kaal:"  />
+        <Entry x:Name="num9" Placeholder="Sisesta kaal kg:" />
+        <Label x:Name="Labelnum8" Text="Pikkus:" />
+        <Entry x:Name="num8" Placeholder="Sisesta pikkus m:" />
+        <Label x:Name="Labelres1" Text="Tulemus:" FontSize ="12" />
+        <Label x:Name="res1"  />
+        <Button x:Name="BtnSub1" Text="Arvuta"  Clicked="BtnSub1_Clicked" Margin="40, 0, 40, 0" />
+
+       <RelativeLayout>
+            <Label Text= "BAASAINEVAHETUS" FontSize ="20" RelativeLayout.XConstraint ="120" RelativeLayout.YConstraint ="10"  Margin=" 10, 0, 10, 0"/>
+            <Label x:Name="Labelnum11" Text="Kaal:"  RelativeLayout.XConstraint ="20" RelativeLayout.YConstraint ="40"  Margin=" 10, 0, 10, 0"/>
+            <Entry x:Name="num11" Placeholder="Sisesta kaal kg:" RelativeLayout.XConstraint ="20" RelativeLayout.YConstraint ="60"  Margin=" 10, 0, 10, 0"/>
+            <Label x:Name="Labelnum12" Text="Pikkus:" RelativeLayout.XConstraint ="200" RelativeLayout.YConstraint ="40"  Margin=" 10, 0, 10, 0" />
+            <Entry x:Name="num12" Placeholder="Sisesta pikkus m:" RelativeLayout.XConstraint ="200" RelativeLayout.YConstraint ="60"  Margin=" 10, 0, 10, 0"/>
+            <Label x:Name="Labelnum7" Text="Vanus:"  RelativeLayout.XConstraint ="20" RelativeLayout.YConstraint ="100"  Margin=" 10, 0, 10, 0"/>
+            <Entry x:Name="num7" Placeholder="Sisesta vanus:a" RelativeLayout.XConstraint ="20" RelativeLayout.YConstraint ="120"  Margin=" 10, 0, 10, 0"/>
+            <Button x:Name="BtnSub3" Text="Mees"  Clicked="BtnSub3_Clicked" RelativeLayout.XConstraint ="20" RelativeLayout.YConstraint ="160"   Margin=" 10, 0, 10, 0"/>
+            <Button x:Name="BtnClr3" Text="Naine"  Clicked="BtnClr3_Clicked" RelativeLayout.XConstraint ="200" RelativeLayout.YConstraint ="160"  Margin=" 10, 0, 10, 0"/>
+            <Label x:Name="Labelres2" Text="Tulemus:" FontSize ="16" RelativeLayout.XConstraint ="20" RelativeLayout.YConstraint ="220" Margin=" 10, 0, 10, 0"/>
+            <Label x:Name="res2" RelativeLayout.XConstraint ="20" RelativeLayout.YConstraint ="240" Margin=" 10, 0, 10, 0"/>
+            <Label x:Name="Labelres3" Text="Tulemus:" FontSize ="16" RelativeLayout.XConstraint ="200" RelativeLayout.YConstraint ="220"  Margin=" 10, 0, 10, 0"/>
+            <Label x:Name="res3" RelativeLayout.XConstraint ="200" RelativeLayout.YConstraint ="240" Margin=" 10, 0, 10, 0" />
+            <Button x:Name="BtnClr2" Text="Kustuta"  Clicked="BtnClr2_Clicked" RelativeLayout.XConstraint ="160" RelativeLayout.YConstraint ="270"  Margin=" 10, 0, 10, 0" />
+      </RelativeLayout>
+    </StackLayout>
+    </Grid>
+</ContentPage>

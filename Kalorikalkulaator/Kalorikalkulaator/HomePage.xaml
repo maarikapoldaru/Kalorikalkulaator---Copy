@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"  
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"  
+             xmlns:local="clr-namespace:Kalorikalkulaator" xmlns:d="http://xamarin.com/schemas/2014/forms/design"  
+             x:Class="Kalorikalkulaator.HomePage">
+    <Grid>
+        <StackLayout>
+        <StackLayout>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+                <Label Margin="0,0,0,10" Text="Kaloripäevik" FontAttributes="Bold" FontSize="Large" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
+                <Entry x:Name="txtToitId" Placeholder="Sisesta nr"></Entry>
+                <Entry x:Name="txtSpec" Placeholder="Sisesta kuupäev"></Entry>
+                <Entry x:Name="txtName" Placeholder="Sisesta toit"></Entry>
+                <Entry x:Name="txtNum" Placeholder="Sisesta kalorid"></Entry>
+                <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Button x:Name="btnAdd" WidthRequest="200" Text="Lisa uus" Clicked="BtnAdd_Clicked" />
+                    <Button x:Name="btnRead" WidthRequest="200" Text="Vaata" Clicked="BtnRead_Clicked" />
+                </StackLayout>
+                <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Button x:Name="btnUpdate" WidthRequest="200" Text="Uuenda" Clicked="BtnUpdate_Clicked"/>
+                    <Button x:Name="btnDelete" WidthRequest="200" Text="Kustuta" Clicked="BtnDelete_Clicked" />
+                </StackLayout>
+                <ListView x:Name="lstToidud">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                         
+                            <TextCell Text="{Binding Spec, Name, Num}"  Detail="{Binding ToitId}"></TextCell>
+                                
+                            </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+    </Grid>
+</ContentPage>  
